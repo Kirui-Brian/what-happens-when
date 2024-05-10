@@ -39,6 +39,12 @@ popular searches from the internet as a whole. As you are typing
 with each keypress. It may even suggest "google.com" before you finish typing
 it.
 
+TCP/IP
+Transmission Control Protocol/Internet Protocol (TCP/IP) is the set of rules governing the exchange of data over the internet. Your computer uses TCP to divide your request into packets, and IP to send them to the correct address.
+
+Firewall
+A firewall examines the incoming and outgoing network traffic. It ensures that the packets sent during your request are secure and not malicious, acting as a barrier against cyber threats.
+
 The "enter" key bottoms out
 ---------------------------
 
